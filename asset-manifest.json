@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://.github.io/csb-4e3l5p/static/css/main.19813f1f.css",
+    "main.js": "https://.github.io/csb-4e3l5p/static/js/main.63055873.js",
+    "index.html": "https://.github.io/csb-4e3l5p/index.html",
+    "main.19813f1f.css.map": "https://.github.io/csb-4e3l5p/static/css/main.19813f1f.css.map",
+    "main.63055873.js.map": "https://.github.io/csb-4e3l5p/static/js/main.63055873.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19813f1f.css",
+    "static/js/main.63055873.js"
+  ]
+}
